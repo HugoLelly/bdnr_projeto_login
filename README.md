@@ -2,6 +2,15 @@
 
 O projeto **Projeto BDNR (Banco de Dados Não Relacionais)** é uma aplicação de exemplo desenvolvida para demonstrar o uso de um banco de dados não relacional (NoSQL) em conjunto com uma aplicação web. Ele oferece funcionalidades básicas de login, registro de usuários, exibição e edição de perfil, bem como exclusão de conta.
 
+## Informações de Identificação:
+
+- **Instituição:** Univassouras - Campus Maricá
+- **Disciplina:** Banco de Dados Não Relacionais
+- **Professor:** Fabricio Dias
+- **Período:** 5º Período - Turma A - 2024.1
+- **Aluno e Matrícula:** Hugo Lelly de Lima Marinho - 202211182
+
+
 ## Funcionalidades:
 
 - **Login e Registro de Usuários:** Os usuários podem se autenticar na aplicação ou registrar uma nova conta.
