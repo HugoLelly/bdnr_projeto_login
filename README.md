@@ -10,6 +10,7 @@ O projeto **Projeto BDNR (Banco de Dados Não Relacionais)** é uma aplicação 
 - **Período:** 5º Período - Turma A - 2024.1
 - **Aluno e Matrícula:** Hugo Lelly de Lima Marinho - 202211182
 
+Disponivel em https://hugolelly.github.io/bdnr_projeto_login/
 
 ## Funcionalidades:
 
